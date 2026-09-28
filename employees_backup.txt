@@ -1,0 +1,6 @@
+--- Employee Management System Backup ---
+ID	Name	Department	Salary
+----------------------------------------
+101	Rahul	IT	45000.0
+102	Om	Design	20000.0
+103	Arya	Marketing	50000.0
